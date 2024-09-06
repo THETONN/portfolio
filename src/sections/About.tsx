@@ -156,7 +156,7 @@ export const AboutSection = () => {
               <div className="flex">
                 <div className="w-60 mx-auto mt-2 md:mt-0 inline-flex items-center gap-4 py-2 px-3">
                   <Image src={mikelopster} alt="Book Cover" className="rounded-md"/>
-                  <p className="text-sm lg:text-base max-w-xs text-white/60 mt-2">Mikelopster's Tech Blog</p>
+                  <p className="text-sm lg:text-base max-w-xs text-white/60 mt-2">Mikelopster&#39;s Tech Blog</p>
                 </div>
               </div>
             </Card>
