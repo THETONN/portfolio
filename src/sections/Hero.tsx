@@ -175,7 +175,7 @@ export const HeroSection = () => {
              focus:outline-none focus:ring-2 focus:ring-white/50 focus:ring-offset-2 focus:ring-offset-gray-900"
             >
               <a
-                href="https://drive.google.com/file/d/1evETK_k_wqtAhr1KQKJLWlxZSMO8BslD/view?usp=sharing"
+                href="https://drive.google.com/file/d/141_QIFMIb7iT9rSPDBRZklCSkDWi3hU8/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold"
